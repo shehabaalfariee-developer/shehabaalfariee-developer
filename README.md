@@ -26,7 +26,7 @@
 📝 I am a Software Engineer @ Web Developer @ Desktop Developer
 🌟 Main languages: C++ & C# & Python & Dart & PHP"
 🌟 Main FrameWorks: flutter , Laravel &amp; >
-<pre class="notranslate"><code>shehabAbd@github
+<pre class="notranslate"><code>Shehab-Abdullah@github
 <br/>
 📝 I am a Software Engineer @
 Desktop And Web Developer 
@@ -99,5 +99,5 @@ alt="shehab" height="30"/></a>
 
 <br/>
 -------------------------------------------
-Credit: [Shehab Abdullah Mohammed Al fariee]([https://github.com/shehabaalfariee-developer])
-Last Edited on: 17/4/2022
+Credit: [Shehab Abdullah Mohammed Al-Fariee]([https://github.com/shehabaalfariee-developer])
+Last Edited on: 17/01/2026
